@@ -1,0 +1,4 @@
+name: 'Nginx template'
+description: 'Super cool awesome temaplte'
+tags:
+   - nginx
