@@ -1,4 +1,6 @@
-name: 'Nginx template'
-description: 'Super cool awesome temaplte'
+name: 'NGINX'
+description: 'This is just a simple NGINX template.'
 tags:
    - nginx
+icons: [ 'nginx' ]
+discoverable: true
